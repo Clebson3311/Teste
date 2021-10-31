@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Sbt">
+    <display-name lang="pt">sbt</display-name>
+    <icon src="../canais/marcatv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="../canais/1618465310.gif|../canais/1617141781.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Redetv!">
+    <display-name lang="pt">Redetv!</display-name>
+    <icon src="../canais/1588635219.gif|../canais/1630809841.gif|../canais/1592294027.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <icon src="../canais/1583014300.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <icon src="../canais/tvatalaia.gif|../canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
