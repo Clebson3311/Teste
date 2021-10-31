@@ -1,0 +1,16 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="Sbt" tvg-name="Sbt" tvg-logo="https://i.ytimg.com/vi/B4EtnEm0mS4/maxresdefault.jpg" group-title="CANAL ABERTO",Sbt
+https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/chunklist_w667981599.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://th.bing.com/th/id/OIP.1s1GTXpMTa-XHaJ3aonZmAHaEK?pid=ImgDet&rs=1" group-title="CANAL ABERTO",Band
+http://xcui.vitvabc.xyz:8880/live/287994003103/287994003103/35971.m3u8
+
+#EXTINF:-1 tvg-id="Redetv" tvg-name="Redetv" tvg-logo="https://www.livetvnews.com.br/wp-content/uploads/2019/03/Logo-RedeTV.png" group-title="CANAL ABERTO",Redetv
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w1658499546.m3u8
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.ytimg.com/vi/nrreIHG-lEc/maxresdefault.jpg" group-title="CANAL ABERTO",Globo
+http://xcui.vitvabc.xyz:8880/live/287994003103/287994003103/32360.m3u8
+
+#EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="https://gkpb.com.br/wp-content/uploads/2016/08/novo-logo-tv-record-destaque-blog-gkpb.jpg" group-title="CANAL ABERTO",Record
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
